@@ -1,0 +1,9 @@
+C:\Users\mujahid\Desktop\Running Project\Taste\Taste.Utility\bin\Debug\netcoreapp3.1\Taste.Utility.deps.json
+C:\Users\mujahid\Desktop\Running Project\Taste\Taste.Utility\bin\Debug\netcoreapp3.1\Taste.Utility.dll
+C:\Users\mujahid\Desktop\Running Project\Taste\Taste.Utility\bin\Debug\netcoreapp3.1\Taste.Utility.pdb
+C:\Users\mujahid\Desktop\Running Project\Taste\Taste.Utility\obj\Debug\netcoreapp3.1\Taste.Utility.csprojAssemblyReference.cache
+C:\Users\mujahid\Desktop\Running Project\Taste\Taste.Utility\obj\Debug\netcoreapp3.1\Taste.Utility.AssemblyInfoInputs.cache
+C:\Users\mujahid\Desktop\Running Project\Taste\Taste.Utility\obj\Debug\netcoreapp3.1\Taste.Utility.AssemblyInfo.cs
+C:\Users\mujahid\Desktop\Running Project\Taste\Taste.Utility\obj\Debug\netcoreapp3.1\Taste.Utility.csproj.CoreCompileInputs.cache
+C:\Users\mujahid\Desktop\Running Project\Taste\Taste.Utility\obj\Debug\netcoreapp3.1\Taste.Utility.dll
+C:\Users\mujahid\Desktop\Running Project\Taste\Taste.Utility\obj\Debug\netcoreapp3.1\Taste.Utility.pdb
